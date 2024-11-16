@@ -50,10 +50,5 @@ A simple LinkedIn clone project built using HTML and CSS. This project provides 
 
 This project is licensed under the MIT License.
 
----
-
-Feel free to contribute or use this project as a starting point for your own LinkedIn-like application!
-
-
 
 
