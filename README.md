@@ -1,5 +1,8 @@
 # LinkedIn Clone
 
+![1731768717325190106101165065855](https://github.com/user-attachments/assets/d69b4a16-786b-4454-9474-783079a85c3d)
+
+
 A simple LinkedIn clone project built using HTML and CSS. This project provides a basic structure for a professional networking website with a navigation bar, a hero section, a login form, and a footer.
 
 ## Features
